@@ -2,7 +2,7 @@
 </h1>
 <p align="center">I love creating new things ⚡</p>
 <p align="center">Turning imagination into reality 🚀</p>
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on building small web apps and improving my problem-solving skills<br>🤝 I’m looking to collaborate on open-source projects and beginner-friendly coding ideas<br>🆘 I’m looking for help with advanced JavaScript concepts and backend development<br>🌱 I’m currently learning full-stack development (React + Node.js)<br>💬 Ask me about: Python, HTML, CSS, JavaScript basics, and coding tips for beginners<br>⚡I enjoy turning ideas into projects and learning something new every day<br>
 
 
